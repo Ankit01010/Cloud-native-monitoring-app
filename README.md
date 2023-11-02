@@ -2,6 +2,10 @@
   Cloud Native app on K8S to monitor system resources using python 
 
 
+## Architecture
+
+![image](https://github.com/Ankit01010/Cloud-native-monitoring-app/assets/97511749/ba29d490-71cb-4df7-bb24-fbab06a376ff)
+
 # Step 1: Deploying the Flask application locally
   Clone the code from the repository:
   
